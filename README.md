@@ -8,3 +8,7 @@ Explore your PDF application using Langchain, ChromaDB, Sentence Transformers, a
 # Features
 * **Summarization:** The app uses the T5 language model from Hugging Face Transformers to create excellent summaries of PDFs.
 * **Optimization:** The app uses the langchain library to manage text splitting and document loading for PDFs.
+
+# Getting Started
+1. Implement _PDF_Summarization_Query_LLMs.ipynb_ in your Google Colab.
+2. Upload your PDF file by changing the location of your PDF file.
