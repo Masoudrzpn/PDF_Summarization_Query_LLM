@@ -12,3 +12,11 @@ Explore your PDF application using Langchain, ChromaDB, Sentence Transformers, a
 # Getting Started
 1. Implement _PDF_Summarization_Query_LLMs.ipynb_ in your Google Colab.
 2. Upload your PDF file by changing the location of your PDF file.
+
+# Requirments
+* langchain
+* sentence_transformers
+* TensorFlow
+* transformers
+* chromadb
+* PyPDF2
