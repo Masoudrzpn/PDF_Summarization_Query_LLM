@@ -1,0 +1,10 @@
+langchain
+transformers
+tensorflow
+sentence_transformers
+chromadb
+PyPDF2
+PdfReader
+pipeline
+spacy
+nltk
